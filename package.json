@@ -1,0 +1,22 @@
+{
+  "name": "food-token-smart-contract",
+  "version": "1.0.0",
+  "description": "Smart contract to create ERC20 compliant fungible token",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/senthilkumar-chandramohan/food-token-smart-contract.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/senthilkumar-chandramohan/food-token-smart-contract/issues"
+  },
+  "homepage": "https://github.com/senthilkumar-chandramohan/food-token-smart-contract#readme",
+  "dependencies": {
+    "@openzeppelin/contracts": "^4.8.1"
+  }
+}
